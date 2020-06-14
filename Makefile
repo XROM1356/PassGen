@@ -9,4 +9,5 @@ hello: PassGen.cpp
 
 clean:
 	rm -f PassGen
+	
 
